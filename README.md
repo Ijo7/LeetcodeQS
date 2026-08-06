@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ijo7/LeetcodeQS/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ijo7/LeetcodeQS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0213-house-robber-ii](https://github.com/Ijo7/LeetcodeQS/tree/master/0213-house-robber-ii) |
 | [0877-stone-game](https://github.com/Ijo7/LeetcodeQS/tree/master/0877-stone-game) |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Ijo7/LeetcodeQS/tree/master/0877-stone-game) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ijo7/LeetcodeQS/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
