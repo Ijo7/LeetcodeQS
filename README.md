@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ijo7/LeetcodeQS/tree/master/0049-group-anagrams) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Ijo7/LeetcodeQS/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
